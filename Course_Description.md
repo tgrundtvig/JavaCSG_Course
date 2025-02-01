@@ -1,4 +1,3 @@
-<!---
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                              TEACHER REFERENCE                             %
 %  3D Modeling & Design Patterns with JavaCSG: Building an Interlocking      %
@@ -8,7 +7,7 @@
 %                             Version 1.0                                    %
 %                             [Your Institution / Date]                      %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---->
+
 # Table of Contents
 
 1. [Course Overview & Objectives](#course-overview--objectives)
@@ -25,6 +24,9 @@
     - [Appendix B: UML Sketch Templates](#appendix-b-uml-sketch-templates)
     - [Appendix C: Additional Reading & Slides Outline](#appendix-c-additional-reading--slides-outline)
 
+---
+
+<a id="course-overview--objectives"></a>
 ## 1. Course Overview & Objectives
 
 **Course Title:**  
@@ -47,10 +49,12 @@ By the end of the course, students will be able to:
 
 ---
 
+<a id="detailed-course-plan"></a>
 ## 2. Detailed Course Plan
 
 Each session includes a short lecture/demo segment (plenum) followed by group work exercises. Milestones are set at the end of each session to ensure progress.
 
+<a id="monday-introduction--2d-foundations"></a>
 ### Monday: Introduction & 2D Foundations
 
 #### Morning Session: Course Kick-Off & 2D Concepts
@@ -79,6 +83,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="tuesday-transition-from-2d-to-3d-modeling"></a>
 ### Tuesday: Transition from 2D to 3D Modeling
 
 #### Morning Session: 3D Geometry and Extrusions
@@ -106,6 +111,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="wednesday-design-patterns--assembly-modeling"></a>
 ### Wednesday: Design Patterns & Assembly Modeling
 
 #### Afternoon Session: Composite & Builder Patterns
@@ -122,6 +128,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="thursday-advanced-assembly--transformation-exercises"></a>
 ### Thursday: Advanced Assembly & Transformation Exercises
 
 #### Afternoon Session: Transformation Deep Dive & Clicker Integration
@@ -137,6 +144,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="friday-advanced-modeling--final-assembly"></a>
 ### Friday: Advanced Modeling & Final Assembly
 
 #### Morning Session: Procedural Modeling & Parameter-Driven Design
@@ -172,6 +180,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="exercises--assessments"></a>
 ## 3. Exercises & Assessments
 
 **In-Class Group Exercises:**  
@@ -195,6 +204,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="tools-resources--sample-materials"></a>
 ## 4. Tools, Resources, & Sample Materials
 
 **JavaCSG API & Documentation:**  
@@ -216,6 +226,7 @@ Each session includes a short lecture/demo segment (plenum) followed by group wo
 
 ---
 
+<a id="appendices"></a>
 ## 5. Appendices
 
 ### Appendix A: Sample Code Snippets

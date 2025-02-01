@@ -1,3 +1,4 @@
+<!---
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                              TEACHER REFERENCE                             %
 %  3D Modeling & Design Patterns with JavaCSG: Building an Interlocking      %
@@ -7,7 +8,7 @@
 %                             Version 1.0                                    %
 %                             [Your Institution / Date]                      %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+--->
 # Table of Contents
 
 1. [Course Overview & Objectives](#course-overview--objectives)
@@ -269,7 +270,8 @@ csg.view(brickWithHole);
   5. Integration of Clicker-Holes and Separate Clicker Placement
   6. Procedural Modeling Concepts
   7. Final Assembly and Group Presentations
-
+<!---
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                              END OF DOCUMENT                               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--->

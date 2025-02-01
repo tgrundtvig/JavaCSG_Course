@@ -38,7 +38,7 @@ This hands-on course introduces students to 2D and 3D geometric modeling using t
 - **Brick Blueprint and Implementation:**  
   Students design and implement fixed, 3D-printed brick blueprints (created by extruding 2D shapes) that include integrated clicker-holes.
 - **Model Assembly:**  
-  Using the created bricks and a separate set of printed clickers (which are placed into the models using precise transformations), students will assemble larger composite models. (Scaling is omitted because the bricks are fixed, 3D-printed parts.)
+  Using the created bricks and a separate set of printed clickers (which are placed into the models using precise transformations), students will assemble larger composite models.
 
 **Learning Objectives:**  
 By the end of the course, students will be able to:
